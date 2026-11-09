@@ -9,8 +9,8 @@ public class Azparse110616 {
         System.out.println("value3: " + value3);
 
         String str1 = String.valueOf(10); //valueof는 값을 변환한다는뜻
-        String str2 = String.valueOf(3.14);
-        String str3 = String.valueOf(true);
+        String str2 = String.valueOf(3.14); //string는 숫자나 문자등을
+        String str3 = String.valueOf(true); // 문자열로 변경
 
         System.out.println("str1: " + str1);
         System.out.println("str2: " + str2);
