@@ -12,4 +12,5 @@ public class Bxpurification110912 {
         System.out.println("0.7 조각을 빼면, ");
         System.out.println(result + "조각이 남는다.");
     }
-} //정수 변환
+} //정수 변환 A
+//ccuracyExample2.java(82) 3강

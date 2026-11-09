@@ -19,3 +19,4 @@ public class Bzpitlogical110919 {
         System.out.println(btest);
     }
 }
+//(96)_비트 논리 연산자 중요* 3강

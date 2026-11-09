@@ -16,3 +16,4 @@ public class Bzzonditional110922 {
 }
 //조건이 있으면 if를 써야함 
 //조건이 없을때는 else 끝
+//(100)_삼항 연산자 3강 끝

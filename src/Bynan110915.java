@@ -12,3 +12,5 @@ public class Bynan110915 {
         System.out.println(currentBalance);
     }
 }
+//InputDataCheckNaNExample2.java(85) “NaN” 체크하고 연산 수행
+//3강

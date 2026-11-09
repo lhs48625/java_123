@@ -1,5 +1,6 @@
 public class Bzzzzifelse110926 {
-    int score = 75;
+    int score = 80;
+
     if(score >= 90) {
         System.out.println("점수가 90이상");
         System.out.println("등급A");
@@ -14,3 +15,4 @@ public class Bzzzzifelse110926 {
         System.out.println("등급 D");
     }
 }
+//If-Else If-Else문 4강

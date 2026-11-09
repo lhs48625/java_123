@@ -9,3 +9,5 @@ public class Bynan110914 {
     }
     
 }
+//InputDataCheckNaNExample1.java(85) ”NaN” 문자열의 문제점
+//3강

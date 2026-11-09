@@ -3,7 +3,7 @@ public class Byompare110916 {
         int num1 = 10;
         int num2 = 10;
         boolean result1 = (num1 == num2);
-        boolean result2 = (num1 != num2);
+        boolean result2 = (num1 != num2); //!= 같지않ㅇ으면 TRUE
         boolean result3 = (num1 <= num2);
         System.out.println("result1: " + result1);
         System.out.println("result2: " + result2);
@@ -34,3 +34,5 @@ public class Byompare110916 {
         System.out.println("result9: " + result9);
     }
 }
+//CompareOperatorExample.java(89)_비교 연산자
+//3강
