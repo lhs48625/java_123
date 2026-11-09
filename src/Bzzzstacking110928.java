@@ -21,3 +21,4 @@ public class Bzzzstacking110928 {
         System.out.println("학점" + grade);
     }
 }
+//java_중첩If문 4강

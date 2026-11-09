@@ -24,3 +24,4 @@ public class Bzzzzcharswitchlam110932 {
         }
     }
 }
+//Char type의 Switch문 4강 람다식

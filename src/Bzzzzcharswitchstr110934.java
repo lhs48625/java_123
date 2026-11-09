@@ -27,3 +27,4 @@ public class Bzzzzcharswitchstr110934 {
         System.out.println("score2: " + score2);
     }
 }
+//String type Switch문 4강 스트링

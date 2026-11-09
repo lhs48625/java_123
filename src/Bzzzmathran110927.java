@@ -19,3 +19,4 @@ public class Bzzzmathran110927 {
         }
     }
 }
+//주사위의 번호를 뽑는 예제 4강
