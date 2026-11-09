@@ -1,4 +1,4 @@
-public class Bzzzzstacking110928 {
+public class Bzzzstacking110928 {
     public static void main(String[] args) {
         int score = (int)(Math.random()*20) + 81;
         System.out.println("점수" + score);

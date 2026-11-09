@@ -1,4 +1,4 @@
-public class Bzzzzifelse110925 {
+public class Bzzzifelse110925 {
     public static void main(String[] args) {
         int score = 85;
         if(score>=90) {

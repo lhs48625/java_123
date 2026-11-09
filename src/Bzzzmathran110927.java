@@ -1,4 +1,4 @@
-public class Bzzzzmathran110927 {
+public class Bzzzmathran110927 {
     public static void main(String[] args) {
         int num = (int) (Math.random() * 6) + 1;
         // math.random은 0.0~0.99사이 int 때문에 소수점 뒤에 반올림해서 정수로나옴

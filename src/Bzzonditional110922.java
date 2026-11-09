@@ -1,4 +1,4 @@
-public class Bzzzonditional110922 {
+public class Bzzonditional110922 {
     public static void main(String[] args) {
         int score = 79;
         char grade = 'A';

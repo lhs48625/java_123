@@ -1,4 +1,4 @@
-public class Bzzchange110920 {
+public class Bzrchange110920 {
     public static void main(String[] args) {
         int num1 = 1;
         int result1 = num1 << 3;
