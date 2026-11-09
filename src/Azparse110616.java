@@ -8,7 +8,7 @@ public class Azparse110616 {
         System.out.println("value2: " + value2);
         System.out.println("value3: " + value3);
 
-        String str1 = String.valueOf(10);
+        String str1 = String.valueOf(10); //valueof는 값을 변환한다는뜻
         String str2 = String.valueOf(3.14);
         String str3 = String.valueOf(true);
 
@@ -20,3 +20,8 @@ public class Azparse110616 {
     }
 }
 //자동타입변환(p.57~59) 1강  *중요
+//String.valueOf() → 문자열로 바꾸기
+
+//Integer.parseInt() → 정수로 바꾸기
+
+//Double.parseDouble() → 실수로 바꾸기
