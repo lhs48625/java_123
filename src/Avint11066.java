@@ -10,3 +10,4 @@ public class Avint11066 {
     }
     
 }
+//정수타입(45) 1강

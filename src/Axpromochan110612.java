@@ -22,3 +22,4 @@ public class Axpromochan110612 {
     }
     //promotion type change 자동 타입변환
 }
+//Promotion 타입 변환(51) 1강 중요

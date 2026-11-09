@@ -22,3 +22,4 @@ public class Awfloat11069 {
     }
     
 }
+//실수타입(47) 1강 * 중요

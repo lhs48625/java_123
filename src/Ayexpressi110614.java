@@ -34,3 +34,4 @@ public class Ayexpressi110614 {
         System.out.println("result7: " + result7);
     }
 }
+//연산식에서자동타입변환(p.57~59) 1강 *중요

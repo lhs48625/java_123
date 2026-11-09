@@ -9,3 +9,4 @@ public class Avlong11067 {
         System.out.println(var4);
     }
 }
+//정수타입(46)1강

@@ -8,3 +8,4 @@ public class Axboolean110611 {
             
         }
     }
+//논리타입(48) 1강 *중요

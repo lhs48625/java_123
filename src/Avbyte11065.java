@@ -14,3 +14,4 @@ public class Avbyte11065 {
     }
     
 }
+//정수타입(40) 1강

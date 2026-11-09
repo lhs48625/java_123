@@ -31,4 +31,4 @@ public class Bbsanner11091 {
     }
 
     
-}//scanner 1장
+}//scanner 2장

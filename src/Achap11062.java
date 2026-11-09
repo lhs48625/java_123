@@ -6,3 +6,4 @@ public class Achap11062 {
     }
     
 }
+//변수선언과초기화 1강

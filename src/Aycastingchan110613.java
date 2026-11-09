@@ -17,3 +17,4 @@ public class Aycastingchan110613 {
         System.out.println(var8);//int는 정수형이기때문에 var8을 출력시'3'만출력 
     }// but double가 3.14인것은 변함이 없음
 }
+//Casting 타입 변환(52) 타입변환

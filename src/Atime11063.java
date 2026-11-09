@@ -9,3 +9,4 @@ public class Atime11063 {
     }
     
 }
+//변수선언과초기화  1강 

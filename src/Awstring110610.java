@@ -26,4 +26,4 @@ public class Awstring110610 {
         System.out.print("배웁니다.\n");
     }
 }
-/* */
+/*String 타입(47) 1강 *중요 */
