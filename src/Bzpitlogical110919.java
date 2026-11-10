@@ -1,6 +1,6 @@
 public class Bzpitlogical110919 {
     public static void main(String[] args) {
-        System.out.println("3 & 2 =" + (3 & 2)); //ANS비트단위 계산으로 답은 2, 비트단위가 1로 같은것만
+        System.out.println("3 & 2 =" + (3 & 2)); //AND비트단위 계산으로 답은 2, 비트단위가 1로 같은것만
         System.out.println("3 | 2 =" + (3 | 2)); //OR비트단위 계산으로 답은 3, 비트단위가 있는것 전체
         System.out.println("3 ^ 2 =" + (3 ^ 2)); //XOR비트단위 계산으로 답은 1, 비튼단위로 다른 것만 계산
         System.out.println("~45 =" + (~45));
@@ -19,4 +19,5 @@ public class Bzpitlogical110919 {
         System.out.println(btest);
     }
 }
-//(96)_비트 논리 연산자 중요* 3강
+//(96)_비트 논리 연산자 중요* 3강 
+//~는 비트반전 즉 -로

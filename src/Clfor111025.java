@@ -1,0 +1,16 @@
+public class Clfor111025 {
+    public static void main(String[] args) {
+        int[] scores = {95, 71, 84 ,93 ,87};
+
+        int sum = 0;
+        for(int score : scores) {
+            sum = sum + score;
+        }
+        System.out.println("점수 총합 =" + sum);
+
+        double avg = (double) sum / scores.length;
+        System.out.println("점수 평균 =" + avg);
+    }
+}
+//향상된 for문 5강
+//총합 및 평균 구하기
