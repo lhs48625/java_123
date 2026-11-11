@@ -1,7 +1,7 @@
 public class Doverload11114 {
     public static void main(String[] args) {
         
-        Zcar2over car1 = new Zcar2over();
+        Zcar2over car1 = new Zcar2over("자가용");
             System.out.println("car1.com : " + car1.company);
             System.out.println();
 
