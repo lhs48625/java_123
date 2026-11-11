@@ -6,20 +6,21 @@ public class Zcalover {
     }
 
     double avg1(int x, int y) {
-        double sum = plus(x, y);
+        double sum = plus1(x, y);
         double result = sum / 2;
         return result;
     }
+    // int 교체가능
     
     // ------------------------------------------
 
-    double plus(double x, double y) {
+    double plus2(double x, double y) {
         double result = x + y;
         return result;
     }
 
     double avg(double x, double y) {
-        double sum = plus(x, y);
+        double sum = plus2(x, y); //plus2(x, y) 이거는 위쪽에 보이는 double x + y라는 뜻
         double result = sum / 2;
         return result;
     }

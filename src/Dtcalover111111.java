@@ -3,7 +3,7 @@ public class Dtcalover111111 {
         Zcalover myCalc = new Zcalover();
         myCalc.execute();
 
-        myCalc.execute(10.0,20);
+        myCalc.execute(10.0, 20);
 
         myCalc.execute(10,10);
         
