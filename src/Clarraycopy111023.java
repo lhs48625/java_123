@@ -14,5 +14,5 @@ public class Clarraycopy111023 {
         }
     }
 }
-//for문으로 배열 복사 5강
+//for문으로 배열 복사 5강 복사
 //방법1

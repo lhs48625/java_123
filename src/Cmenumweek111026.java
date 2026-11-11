@@ -37,6 +37,8 @@ public class Cmenumweek111026 {
             System.out.println("월요일에는 야구를 합니다");
         } else if (today == Week.TUESDAY) {
             System.out.println("오늘은 화요일입니다.");
+        } else if (today == Week.WEDNESDAY){
+            System.out.println("수요일입니다.");
         }
     }
 }

@@ -4,7 +4,8 @@ public class Cjarraylength111020 {
 
         int sum = 0;
         for(int i = 0; i < scores.length; i++) {
-            sum += scores[i];
+            sum += scores[i]; 
+            //length는 3
         }
         System.out.println("총합 :" + sum);
 
