@@ -21,3 +21,4 @@ static void change(){
     System.out.println("건전지교체");
 }
 }
+//java_인터페이스 변수에 구현 객체 대입

@@ -17,7 +17,7 @@ public class Zaudio implements Zremote{
     }
 
 
-    
+
     //setvolume의 추상 메서드의 실체메서드
       public void setVolume(int volume) {
         if (volume > Zremote.MAX_VOLUME) {
@@ -31,3 +31,4 @@ public class Zaudio implements Zremote{
         System.out.println("현재오디오불륨 : " + volume);
       }
 }
+//java_인터페이스 변수에 구현 객체 대입

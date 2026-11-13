@@ -7,3 +7,4 @@ public class Fwinterface11136 {
         Zremote.change();
     }
 }
+//java_인터페이스 변수에 구현 객체 대입
