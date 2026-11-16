@@ -15,7 +15,7 @@ public class Ztest6 {
 
             System.out.println("실행 매개값 수 부족");
             System.out.println("실행방법");
-            return;
+            return ;
 
         }
     }
@@ -35,12 +35,12 @@ public class Ztest6 {
 
     public static void add3(int a, int b) { 
         try{
-            int c = a;
-        int d = b;
+         
         //  a = 100;
         //  b = 120;
-        System.out.println(a + "+" + b + "=" + (a + b))
-        } cat
+        System.out.println(a + "+" + b + "=" + (a + b));
+        } catch (NumberFormatException e){
+        System.out.println("문제잇음");}
     }
 
 }
