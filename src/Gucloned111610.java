@@ -3,7 +3,7 @@ public class Gucloned111610 {
         Zclone original = new Zclone("blue", "홍길동", "12345", 25, true);
 
         Zclone cloned = original.getZclone();
-        cloned.password = "67890";
+        cloned.password = "67890"; //재생성 한 후 적용해야됨 string
         cloned.age = 10;
 
         System.out.println("복제객체필드값");
@@ -27,6 +27,7 @@ public class Gucloned111610 {
 //클론메서드에 의해서 값을 복사
 
 //얇은 값 복사
+//String의 특징 
 
 //string은 초기값이 완성된 상태에서는 변경이 안됨  
 // string은 재생성> 값변경 이렇게 되는거임

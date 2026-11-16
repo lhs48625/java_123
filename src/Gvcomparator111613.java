@@ -30,11 +30,17 @@ public class Gvcomparator111613 {
     // 컴파일 때는 object 형으로 유지시키다가 실행때 student 형으로 확정시키는 (<제네릭형>)형
      {
         @Override 
-        public int compare(Student a, Student b) {
-            return  Integer.compare(a.sno, b.sno);
+        public int compare(Student a, Student b) { 
+            return  Integer.compare(a.sno, b.sno); 
+           
         }
     }
     
 }
+/*
+앞뒤에 같은 값이면 0을 반환
+앞 값이 더 크면 1을 반환
+뒷 값이 크면 -1반환
+*/
 //인터페이스는 생성자가 없어서 implements(구현한다) 이걸로 꼭 가져와야함
 //java_비교자 10강

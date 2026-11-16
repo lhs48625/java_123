@@ -10,5 +10,5 @@ public class Gvnull111616 {
         System.out.println(Objects.toString(str2, "이름이 없습니다."));
     }
 }
-//toString가 있는데 앞에 값이 null(str2)이면 뒤(이름이 없습니다)에 값을 출력해주겟다
+//toString이 있을때는 앞에 값이 null(str2)이면 뒤(이름이 없습니다)에 값을 출력해주겠다
 //객체 문자 정보

@@ -26,3 +26,4 @@ public class Zclone implements Cloneable { //java.lang에 인터페이스에서 
 }
 //필드값만 복제
 //object에서 가져다 쓴 cloneable
+//String의 특징 
