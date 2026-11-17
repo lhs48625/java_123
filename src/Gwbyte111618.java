@@ -9,3 +9,4 @@ public class Gwbyte111618 {
         System.out.println(str2);
     }
 }
+//바이트 배열을 문자열로 변환
