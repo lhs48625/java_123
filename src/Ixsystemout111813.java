@@ -20,7 +20,19 @@ public class Ixsystemout111813 {
 
         os.flush();
         //출력 버퍼 지우기 대기중인 데이터 전체 내보내기
+        
+
+        //output는 데이터가 컴퓨터에서 터미널로 바로 출력됨
+        //-----------------------------------------------
+
+        
+        System.out.println();
+
+        String str = "가나다라마바사아자차카타파하";
+        System.out.println(str);
+
+
+        
     }
     
 }
-//output는 데이터가 컴퓨터에서 터미널로 바로 출력됨
