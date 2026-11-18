@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
+
 public class Hzzrandomro111721 {
     public static void main(String[] args) {
         //선택번호
