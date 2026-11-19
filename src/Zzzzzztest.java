@@ -10,7 +10,7 @@ public class Zzzzzztest {
 
         Scanner scanner = new Scanner(System.in);
 
-        FileReader fr = new FileReader("C:/Temp/book.txt");
+        FileReader fr = new FileReader("C:/이현석/포트폴리오/자바/테스트 1/book.txt");
 
         int read;
         char[] cb = new char[100];
@@ -21,6 +21,7 @@ public class Zzzzzztest {
             System.out.println(data);
 
         }
+        //Jdfilereader11196 배열을 만든 후 0에서 read 까지 읽기
 
 
 
@@ -44,8 +45,9 @@ public class Zzzzzztest {
 
             if (strNum.equals("1")) {
                 
+                try{
 
-                File file = new File("C:/Temp/book.txt");
+                File file = new File("C:/이현석/포트폴리오/자바/테스트 1/book.txt");
 
                 FileWriter writer = new FileWriter(file, true);
 
@@ -73,6 +75,12 @@ public class Zzzzzztest {
                 writer.close();
                 
                 System.out.println("결과 : 성공적으로 등록되었습니다.");
+                } catch (Exception q) {
+                    System.out.println();
+                    System.out.println("실패하였습니다.");
+                    
+                } return;
+                //Joutputstreamwr11199 파일로 출력, 파일을 만들어서 저장
 
 
 
@@ -81,7 +89,7 @@ public class Zzzzzztest {
                 System.out.print("[목록조회]\n");
                 try {
 
-                    FileReader fr1 = new FileReader("C:/Temp/book.txt");
+                    FileReader fr1 = new FileReader("C:/이현석/포트폴리오/자바/테스트 1/book.txt");
 
                     int read1;
                     char[] cb1 = new char[100];
@@ -98,7 +106,7 @@ public class Zzzzzztest {
                 } catch (Exception e) {
                     System.out.println("저장된 도서가 없습니다.");
                 }
-
+                //Jdfilereader11196 배열을 만든 후 0에서 read 까지 읽기
 
 
 
@@ -110,9 +118,9 @@ public class Zzzzzztest {
                 System.out.println("[저장 및 종료되었습니다]");
                 try{
 
-                String original = "C:/Temp/book.txt";
+                String original = "C:/이현석/포트폴리오/자바/테스트 1/book.txt";
 
-                String target = "C:/Temp/file.txt";
+                String target = "C:/이현석/포트폴리오/자바/테스트 1/file.txt";
 
                 FileInputStream fis = new FileInputStream(original);
                 FileOutputStream fos = new FileOutputStream(target);
@@ -129,7 +137,10 @@ public class Zzzzzztest {
             } catch (Exception d) {
                 System.out.println("저장할 도서가 없습니다.");
             }
-            } 
+            } else {
+                System.out.println();
+                System.out.println("없는 메뉴 입니다.");
+            }
         }
 
     }
