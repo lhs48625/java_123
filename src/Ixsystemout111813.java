@@ -13,6 +13,7 @@ public class Ixsystemout111813 {
             os.write(b);
         }
         os.write(10);
+        //10은 줄바꿈
         
         String hangul = "가나다라마바사아자차카타파하";
         byte[] hangulBytes = hangul.getBytes();
