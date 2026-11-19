@@ -79,7 +79,7 @@ public class Zzzzzztest {
                     System.out.println();
                     System.out.println("실패하였습니다.");
                     
-                } return;
+                } 
                 //Joutputstreamwr11199 파일로 출력, 파일을 만들어서 저장
 
 
