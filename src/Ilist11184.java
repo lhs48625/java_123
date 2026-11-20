@@ -11,7 +11,7 @@ public class Ilist11184 {
         list.add(2, "database"); // 앞에 숫자를 붙이면 그 숫자의 인덱스로 변경
         list.add("ibatis");
 
-        int size = list.size(); //size는 list의 길이를 재는 것 / length는 [배열]의 길이
+        int size = list.size(); //size는 list의 길이를 재는 것 / length는 []의 길이
         System.out.println("총 객체수 :" + size);
         System.out.println();
 

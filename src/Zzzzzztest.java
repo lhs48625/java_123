@@ -10,7 +10,7 @@ public class Zzzzzztest {
 
         Scanner scanner = new Scanner(System.in);
 
-        FileReader fr = new FileReader("C:/이현석/포트폴리오/자바/테스트 1/book.txt");
+        FileReader fr = new FileReader("C:/이현석/포트폴리오/자바/실습/book.txt");
 
         int read;
         char[] cb = new char[100];
@@ -47,7 +47,7 @@ public class Zzzzzztest {
                 
                 try{
 
-                File file = new File("C:/이현석/포트폴리오/자바/테스트 1/book.txt");
+                File file = new File("C:/이현석/포트폴리오/자바/실습/book.txt");
 
                 FileWriter writer = new FileWriter(file, true);
 
@@ -79,7 +79,7 @@ public class Zzzzzztest {
                     System.out.println();
                     System.out.println("실패하였습니다.");
                     
-                } 
+                } finally{}
                 //Joutputstreamwr11199 파일로 출력, 파일을 만들어서 저장
 
 
@@ -89,7 +89,7 @@ public class Zzzzzztest {
                 System.out.print("[목록조회]\n");
                 try {
 
-                    FileReader fr1 = new FileReader("C:/이현석/포트폴리오/자바/테스트 1/book.txt");
+                    FileReader fr1 = new FileReader("C:/이현석/포트폴리오/자바/실습/book.txt");
 
                     int read1;
                     char[] cb1 = new char[100];
@@ -118,9 +118,9 @@ public class Zzzzzztest {
                 System.out.println("[저장 및 종료되었습니다]");
                 try{
 
-                String original = "C:/이현석/포트폴리오/자바/테스트 1/book.txt";
+                String original = "C:/이현석/포트폴리오/자바/실습/book.txt";
 
-                String target = "C:/이현석/포트폴리오/자바/테스트 1/file.txt";
+                String target = "C:/이현석/포트폴리오/자바/실습/file.txt";
 
                 FileInputStream fis = new FileInputStream(original);
                 FileOutputStream fos = new FileOutputStream(target);

@@ -4,7 +4,7 @@ import java.io.FileWriter;
 public class Jdfilewriter11197 {
     public static void main(String[] args) throws Exception{
         try{
-        File file = new File("C:/Temp/file.txt");
+        File file = new File("C:/이현석/포트폴리오/자바/books.txt");
         //파일객체생성
 
         FileWriter fw =new FileWriter(file, true);
